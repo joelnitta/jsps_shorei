@@ -22,7 +22,6 @@ references:
   volume: '79'
 
 - id: Braithwaite1969
-  abstract: Braithwaite (1969) showed that
   author:
     - family: Braithwaite
       given: A
@@ -55,14 +54,6 @@ references:
   volume: '71'
 
 - id: Chen2015
-  abstract: >-
-    A vittarioid fern from the Solomon Islands, which has long been treated as
-    Antrophyum semicostatum, is described here as a new species, Antrophyum
-    solomonense . A description, illustration, and distribution of the new
-    species are presented. Boot-shaped paraphysal apical cells, rounded stipe in
-    cross section, and thin rhizome scale cell walls are the diagnostic
-    characteristics of A. solomonense. A molecular phylogeny inferred from four
-    chloroplast markers further supports its systematic uniqueness.
   author:
     - family: Chen
       given: Cheng-Wei
@@ -140,9 +131,6 @@ references:
   URL: https://onlinelibrary.wiley.com/doi/10.1111/cla.12538
 
 - id: Copeland1958
-  abstract: >-
-    Copeland, E.B. (1958) Fern flora of the Philippines, vol. I, Bureau of
-    Printing, Manila.
   author:
     - family: Copeland
       given: Edwin Bingham
@@ -201,13 +189,6 @@ references:
   volume: '51'
 
 - id: Ebihara2009b
-  abstract: >-
-    Polyphlebium borbonicum is newly recorded in Central and South America and
-    Easternmost Polynesia (Marquesas and Society Islands). It has been
-    misidentified as P. diaphanum and as P. endlicherianum in the New World and
-    in the Pacific, respectively. Polyphlebium borbonicum is distinguishable
-    from true P. diaphanum by broader blade segments, and from true P.
-    endlicherianum by the absence of a marginal elongate cell row of the lamina.
   author:
     - family: Ebihara
       given: Atsushi
@@ -236,36 +217,6 @@ references:
   volume: '99'
 
 - id: Ebihara2010
-  abstract: >-
-    BACKGROUND: DNA barcoding is expected to be an effective identification tool
-    for organisms with heteromorphic generations such as pteridophytes, which
-    possess a morphologically simple gametophyte generation. Although a
-    reference data set including complete coverage of the target local
-    flora/fauna is necessary for accurate identification, DNA barcode studies
-    including such rich taxonomic sampling on a countrywide scale are lacking.
-    METHODOLOGY/PRINCIPAL FINDINGS: The Japanese pteridophyte flora (733 taxa
-    including subspecies and varieties) was used to test the utility of two
-    plastid DNA barcode regions (rbcL and trnH-psbA) with the intention of
-    developing an identification system for native gametophytes. DNA sequences
-    were obtained from each of 689 (94.0%) taxa for rbcL and 617 (84.2%) taxa
-    for trnH-psbA. Mean interspecific divergence values across all taxon pairs
-    (K2P genetic distances) did not reveal a significant difference in rate
-    between trnH-psbA and rbcL, but mean K2P distances of each genus showed
-    significant heterogeneity according to systematic position. The minimum fail
-    rate of taxon discrimination in an identification test using BLAST (12.52%)
-    was obtained when rbcL and trnH-psbA were combined, and became lower in
-    datasets excluding infraspecific taxa or apogamous taxa, or including sexual
-    diploids only. CONCLUSIONS/SIGNIFICANCE: This study demonstrates the overall
-    effectiveness of DNA barcodes for species identification in the Japanese
-    pteridophyte flora. Although this flora is characterized by a high
-    occurrence of apogamous taxa that pose a serious challenge to identification
-    using DNA barcodes, such taxa are limited to a small number of genera, and
-    only minimally detract from the overall success rate. In the case that a
-    query sequence is matched to a known apogamous genus, routine species
-    identification may not be possible. Otherwise, DNA barcoding is a practical
-    tool for identification of most Japanese pteridophytes, and is especially
-    anticipated to be helpful for identification of non-hybridizing
-    gametophytes.
   author:
     - family: Ebihara
       given: Atsushi
@@ -292,12 +243,6 @@ references:
   volume: '5'
 
 - id: Ebihara2010a
-  abstract: >-
-    Pacific species of Hymenophyllum subgen. Sphaerocionium, Mecodium, Globosa,
-    Pleuromanes, Myrmecostylum, Fuciformia, Diploöphyllum and Cardiomanes are
-    enumerated. In total, 37 species are recorded in the studied area, and
-    synonymies, information of the type material, distribution and cytological
-    records of each species are provided.
   author:
     - family: Ebihara
       given: Atsushi
@@ -323,30 +268,6 @@ references:
   volume: '36'
 
 - id: Ebihara2013
-  abstract: >-
-    PREMISE OF THE STUDY: Ferns and lycophytes are the only extant land plants
-    with two free-living generations (sporophytes and gametophytes); hence, a
-    single species may have two different distributions. The distribution of the
-    gametophytes of most fern species, which are much smaller in size than
-    sporophytes, are almost unknown due to the difficulty of identifying
-    gametophytes using morphological characters. METHODS: Twelve quadrats (1
-    m(2) or 0.25 m(2)), each subdivided into a grid of 100 (10 × 10) or 25 (5 ×
-    5) squares, were used to survey gametophytes in the Japanese Archipelago,
-    where distribution data of sporophytes and "DNA barcodes" for identification
-    of gametophytes have fully been established in previous studies. Collected
-    gametophytes were identified using the plastid rbcL-a region. KEY RESULTS:
-    In total, gametophytes of 38 species in two broad morphological categories
-    (28 cordiform and 10 noncordiform species) were identified among 407
-    collections. The cordiform gametophytes discovered are without exception
-    accompanied by their conspecific sporophytes at the periphery of the
-    quadrats. On the other hand, the sporophytic counterparts of the
-    noncordiform gametophytes are often not found or are rare around the sites.
-    CONCLUSIONS: This study demonstrates with a regional flora that fern
-    gametophytes do not always co-occur with sporophytes of the same species. In
-    particular, noncordiform gametophytes tended to occur independently of
-    conspecific sporophytes. This pattern may be due to the capability for
-    indeterminate growth and vegetative reproduction by gemmae in noncordiform
-    gametophytes.
   author:
     - family: Ebihara
       given: Atsushi
@@ -416,21 +337,6 @@ references:
   volume: '45'
 
 - id: Ebihara2019b
-  abstract: >-
-    The fern and lycophyte flora of Japan comprising 721 native taxa (including
-    subspecies and varieties) plus 371 interspecific hybrids was reassessed
-    using a nearly comprehensively sampled distribution map at 10 km resolution
-    vouchered by 216,687 specimens, up-to-date cytotaxonomic information
-    covering 74% of the taxa, and an rbcL sequence dataset covering 97.9% of the
-    taxa. Spatial distribution of species richness and phylogenetic diversity
-    was visualized. Apomixis was observed in 11.0% of the native taxa whose
-    reproductive modes are known. The number of sexually reproducing polyploid
-    taxa (n = 199) is less than sexual diploids (n = 241), and 30 of them are
-    evidently allopolyploid, in contrast with the low number of possible
-    autopolyploids (n = 4). Apomictic taxa were found to have smaller
-    latitudinal ranges than sexual taxa or taxa with multiple reproductive
-    modes. A morphological character dataset in Lucid format is provided for
-    taxonomic identification of the native taxa.
   author:
     - family: Ebihara
       given: Atsushi
@@ -493,27 +399,6 @@ references:
   volume: '79'
 
 - id: Gilbert2018
-  abstract: >-
-    Nepenthes is a genus of carnivorous pitcher plants with high intra- and
-    interspecific morphological diversity. Many species produce dimorphic
-    pitchers, and the relative production rate of the two morphs varies
-    interspecifically. Despite their probable ecological importance to the
-    plants, little is known about the selective context under which various
-    pitcher traits have evolved. This is especially true of colour-related
-    traits, which have not been examined in a phylogenetic context. Using field
-    observations of one polymorphic species (N. gracilis) and comparative
-    phylogenetic analysis of 85 species across the genus, we investigate
-    correlations between colour polymorphism and ecological factors including
-    altitude, light environment and herbivory. In N. gracilis, colour does not
-    correlate with amount of prey captured, but red pitchers experience less
-    herbivory. Throughout the genus, colour polymorphism with redder lower
-    pitchers appears to be evolutionarily favoured. We found a lack of
-    phylogenetic signal for most traits, either suggesting that most traits are
-    labile or reflecting the uncertainty regarding the underlying tree topology.
-    This study highlights ecological correlates of the vast phenotypic diversity
-    of this group of tropical plants. We point to a need for future study
-    examining herbivores of Nepenthes and experimental investigations on colour
-    polymorphism.
   author:
     - family: Gilbert
       given: Kadeem J.
@@ -591,6 +476,29 @@ references:
   URL: papers://ebd7d3df-d8f1-4be8-bcf7-4fb07ababf30/Paper/p438
   volume: '91'
 
+- id: Laffan2010
+  author:
+    - family: Laffan
+      given: Shawn W.
+    - family: Lubarsky
+      given: Eugene
+    - family: Rosauer
+      given: Dan F.
+  citation-key: Laffan2010
+  container-title: Ecography
+  container-title-short: Ecography
+  DOI: 10.1111/j.1600-0587.2010.06237.x
+  ISSN: '09067590'
+  issue: '4'
+  issued:
+    - year: 2010
+  page: 643-647
+  title: >-
+    Biodiverse, a tool for the spatial analysis of biological and related
+    diversity
+  type: article-journal
+  volume: '33'
+
 - id: Lehtonen2011
   author:
     - family: Lehtonen
@@ -609,22 +517,6 @@ references:
   volume: '6'
 
 - id: Mishler2014
-  abstract: >-
-    Understanding spatial patterns of biodiversity is critical for conservation
-    planning, particularly given rapid habitat loss and human-induced climatic
-    change. Diversity and endemism are typically assessed by comparing species
-    ranges across regions. However, investigation of patterns of species
-    diversity alone misses out on the full richness of patterns that can be
-    inferred using a phylogenetic approach. Here, using Australian Acacia as an
-    example, we show that the application of phylogenetic methods, particularly
-    two new measures, relative phylogenetic diversity and relative phylogenetic
-    endemism, greatly enhances our knowledge of biodiversity across both space
-    and time. We found that areas of high species richness and species endemism
-    are not necessarily areas of high phylogenetic diversity or phylogenetic
-    endemism. We propose a new method called categorical analysis of neo- and
-    paleo-endemism (CANAPE) that allows, for the first time, a clear,
-    quantitative distinction between centres of neo- and paleo-endemism, useful
-    to the conservation decision-making process.
   author:
     - family: Mishler
       given: Brent D
@@ -654,28 +546,6 @@ references:
   volume: '5'
 
 - id: Nitta2008
-  abstract: >-
-    The Moorea Biocode seeks to compile an integrative taxonomy based on
-    morphological, ecological, and molecular data for the entire macrobiota of
-    the island of Moorea, French Polynesia. As a case study exploring the
-    utility of selected molecular data for species identification within this
-    integrative taxonomic framework, chloroplast DNA from three regions (rbcL,
-    trnSGG, trnH-psbA) were sequenced for all species of filmy ferns
-    (Hymenophyllaceae) known from Moorea. The relative utility of each of these
-    regions for the purposes of phylogenetic analysis and DNA-based
-    identification was inferred by estimating support for phylogenetic trees
-    reconstructed from each region and by calculating intraspecific and
-    interspecific distance values (uncorrected p) between taxa for each region.
-    All three of these regions were found to be potentially useful for
-    phylogenetic studies at the appropriate taxonomic level. trnH-psbA was
-    determined to have the greatest utility as a potential marker for DNA-based
-    identification because of its high interspecific variability and high degree
-    of amplification success. rbcL and trnH-psbA were successfully used in
-    combination with morphological characters to identify a previously
-    unidentified Moorean filmy fern species, Polyphlebium borbonicum. The
-    presented results support trnH-psbA as appropriate for completing the plant
-    section of the Moorea Biocode, although the use of additional markers will
-    be necessary.
   author:
     - family: Nitta
       given: Joel H.
@@ -724,21 +594,6 @@ references:
   volume: '46'
 
 - id: Nitta2009
-  abstract: >-
-    Hemi-epiphytism represents an evolutionarily important yet poorly understood
-    growth habit in ferns. Anatomy and ontogeny related to hemi-epiphytism in
-    the fern Vandenboschia collariata (Hymenophyllaceae) were investigated at La
-    Selva Biological Station, Costa Rica. Multiple specimens representing all
-    stages of gametophyte and sporophyte growth were observed in the field,
-    collected, and examined in the laboratory. Cross sections of sporophyte
-    roots and stems were made by hand, and examined using light microscopy.
-    Sporophytes were found to initiate growth on the base of trees up to ca. 25
-    cm above the ground. Two types of stems were produced: 1) a short stem that
-    produces crowded roots, and 2) one or more climbing stems that branch from
-    the short stem, climb up the trunk, and produce distant leaves but no roots.
-    This study presents the first description of gametophytes in V. collariata
-    and clarifies ontogeny and anatomy related to the hemi-epiphytic growth
-    habit in ferns.
   author:
     - family: Nitta
       given: Joel H.
@@ -762,32 +617,6 @@ references:
   volume: '61'
 
 - id: Nitta2011
-  abstract: >-
-    PREMISE OF THE STUDY: Hybridization is an important mechanism of speciation
-    in plants and often results in complexes that comprise multiple sexual
-    diploids and their hybrid offspring. However, the intricacy of these systems
-    has prevented a thorough understanding of many groups. The Crepidomanes
-    minutum species complex (Hymenophyllaceae) is a widely distributed,
-    morphologically variable fern species complex. Although prior reports of
-    apogamy and polyploidy suggest hybridization, it has never been the focus of
-    a phylogenetic study. METHODS: Morphology, nuclear (gapCp), and chloroplast
-    (rbcL) DNA sequences, cytology, field observation, and spore counts were
-    used to infer phylogeny and trace hybrid origins. KEY RESULTS: The C.
-    minutum species complex is composed of at least three major clades: the
-    African clade, clade 1 (East Asia and the Pacific), and clade 2 (Southeast
-    Asia and the South Pacific). Clades 1 and 2 differ strikingly in
-    morphological variation (uniform in clade 1 vs. highly variable in clade 2)
-    and occurrence of hybrids (rare in clade 1 vs. frequent in clade 2). Apogamy
-    and polyploidy were confirmed as likely mechanisms of hybrid stabilization
-    in clade 2. Despite the large genetic distance between clades 1 and 2,
-    several specimens were observed with gapCp sequences from both; diploid
-    genome size and sexual reproduction indicate maintenance of genetic
-    diversity via introgression or incomplete lineage sorting, rather than
-    ongoing hybridization, in these specimens. CONCLUSIONS: The C. minutum
-    species complex is a reticulate network including multiple diploid lineages
-    and their stabilized hybrid crosses. Additional sampling focused on
-    reproductive mode and ploidy level is needed to delimit diploid species and
-    hybrids.
   author:
     - family: Nitta
       given: Joel H.
@@ -814,16 +643,6 @@ references:
   volume: '98'
 
 - id: Nitta2011b
-  abstract: >-
-    The ferns and lycophytes of Mo'orea, French Polynesia were surveyed as part
-    of the Mo'orea Biocode Project during September 12–13, 2006, September 6–27,
-    2008, and August 11–28, 2010, resulting in collection of 42 species that had
-    not been previously reported to occur on Mo'orea. Specimen citations,
-    previously known distributions, and taxonomic notes (when appropriate) are
-    given for each new record. New records include 16 species collected for the
-    first time during the Mo'orea Biocode Project, and 26 species collected
-    prior to the project but not included in published species lists. This
-    brings the total number of known Mo'orean pteridophytes to 132 species.
   author:
     - family: Nitta
       given: Joel H.
@@ -849,31 +668,6 @@ references:
   volume: '101'
 
 - id: Nitta2017
-  abstract: >-
-    Ferns are the only major lineage of vascular plants that have nutritionally
-    independent sporophyte (diploid) and gametophyte (haploid) life stages.
-    However, the implications of this unique life cycle for fern community
-    ecology have rarely been considered. To compare patterns of community
-    structure between fern sporophytes and gametophytes, we conducted a survey
-    of the ferns of the islands of Moorea and Tahiti (French Polynesia). We
-    first constructed a DNA barcode library (plastid rbcL and trnH‐psbA) for the
-    two island floras including 145 fern species. We then used these DNA
-    barcodes to identify more than 1300 field‐collected gametophytes from 25
-    plots spanning an elevational gradient from 200 to 2000 m. We found that
-    species richness of fern sporophytes conforms to the well‐known unimodal
-    (i.e., mid‐elevation peak) pattern, reaching a maximum at ∼1000–1200 m.
-    Moreover, we found that fern sporophyte communities become increasingly
-    phylogenetically clustered at high elevations. In contrast, species richness
-    of fern gametophytes was consistent across sites, and gametophytes showed no
-    correlation of phylogenetic community structure with elevation. Turnover of
-    sporophyte and gametophyte communities was closely linked with elevation at
-    shallow phylogenetic levels, but not at deeper nodes in the tree. Finally,
-    we found several species for which gametophytes had broader ranges than
-    sporophytes, including a vittarioid fern with abundant gametophytes but
-    extremely rare sporophytes. Our study highlights the importance of including
-    diverse life history stages in surveys of community structure, and has
-    implications for the possible impacts of climate change on the distribution
-    of fern diversity.
   author:
     - family: Nitta
       given: Joel H.
@@ -902,20 +696,6 @@ references:
   volume: '87'
 
 - id: Nitta2018
-  abstract: >-
-    A new hybrid microsoroid fern, Microsorum × tohieaense (Microsorum
-    commutatum × Microsorum membranifolium) from Moorea, French Polynesia is
-    described based on morphology and molecular phylogenetic analysis.
-    Microsorum × tohieaense can be distinguished from other French Polynesian
-    Microsorum by the combination of sori that are distributed more or less in a
-    single line between the costae and margins, apical pinna wider than lateral
-    pinnae, and round rhizome scales with entire margins. Genetic evidence is
-    also presented for the first time supporting the hybrid origin of Microsorum
-    × maximum (Microsorum grossum × Microsorum punctatum), and possibly
-    indicating a hybrid origin for the Hawaiian endemic Microsorum spectrum. The
-    implications of hybridization for the taxonomy ofmicrosoroid ferns are
-    discussed, and a key to the microsoroid ferns of the Society Islands is
-    provided.
   author:
     - family: Nitta
       given: Joel H.
@@ -1136,26 +916,6 @@ references:
   volume: '109'
 
 - id: Nitta2022b
-  abstract: >-
-    Ferns, with about 12,000 species, are the second most diverse lineage of
-    vascular plants after angiosperms. They have been the subject of numerous
-    molecular phylogenetic studies, resulting in the publication of trees for
-    every major clade and DNA sequences from nearly half of all species. Global
-    fern phylogenies have been published periodically, but as molecular
-    systematics research continues at a rapid pace, these become quickly
-    outdated. Here, we develop a mostly automated, reproducible, open pipeline
-    to generate a continuously updated fern tree of life (FTOL) from DNA
-    sequence data available in GenBank. Our tailored sampling strategy combines
-    whole plastomes (few taxa, many loci) with commonly sequenced plastid
-    regions (many taxa, few loci) to obtain a global, species-level fern
-    phylogeny with high resolution along the backbone and maximal sampling
-    across the tips. We use a curated reference taxonomy to resolve synonyms in
-    general compliance with the community-driven Pteridophyte Phylogeny Group I
-    classification. The current FTOL includes 5,582 species, an increase of
-                  ca.
-                  40% relative to the most recently published global fern phylogeny. Using an updated and expanded list of 51 fern fossil constraints, we find estimated ages for most families and deeper clades to be considerably older than earlier studies. FTOL and its accompanying datasets, including the fossil list and taxonomic database, will be updated on a regular basis and are available via a web portal (
-                  https://fernphy.github.io
-                  ) and R packages, enabling immediate access to the most up-to-date, comprehensively sampled fern phylogeny. FTOL will be useful for anyone studying this important group of plants over a wide range of taxonomic scales, from smaller clades to the entire tree. We anticipate FTOL will be particularly relevant for macroecological studies at regional to global scales and will inform future taxonomic systems with the most recent hypothesis of fern phylogeny.
   accessed:
     - year: 2022
       month: 9
@@ -1187,9 +947,6 @@ references:
   volume: '13'
 
 - id: Nitta2023
-  abstract: |-
-    This article comments on:
-                Namjoo Heo, Donald J. Leopold, Mark V. Lomolino, Seona Yun and Danilo D. Fernando. Global and regional drivers of abundance patterns in the hart’s tongue fern complex (Aspleniaceae), Annals of Botany, Volume 131, Issue 5, 11 April 2023, Pages 737–750, https://doi.org/10.1093/aob/mcac129
   accessed:
     - year: 2023
       month: 6
@@ -1218,35 +975,39 @@ references:
   URL: https://academic.oup.com/aob/article/131/5/i/7058889
   volume: '131'
 
+- id: Nitta2023a
+  accessed:
+    - year: 2023
+      month: 7
+      day: 27
+  author:
+    - family: Nitta
+      given: Joel H.
+    - family: Laffan
+      given: Shawn W.
+    - family: Mishler
+      given: Brent D.
+    - family: Iwasaki
+      given: Wataru
+  citation-key: Nitta2023a
+  container-title: Ecography
+  container-title-short: Ecography
+  DOI: 10.1111/ecog.06638
+  ISSN: 0906-7590, 1600-0587
+  issued:
+    - year: 2023
+      month: 7
+      day: 18
+  language: en
+  license: All rights reserved
+  page: e06638
+  source: DOI.org (Crossref)
+  title: 'canaper: Categorical analysis of neo‐ and paleo‐endemism in R'
+  title-short: canaper
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/10.1111/ecog.06638
+
 - id: Pinson2016a
-  abstract: >-
-    Ferns (monilophytes) and lycophytes are unique among land plants in having
-    two independent life stages: the gametophyte generation, which is generally
-    small, cordiform, and short-lived, senescing after fertilization, and the
-    sporophyte generation, which is considered the dominant, long-lived portion
-    of the life cycle produced following fertilization. In many species of
-    epiphytic ferns, however, the gametophyte generation is capable of sustained
-    vegetative growth, and some are able to reproduce asexually via gemmae.
-    These two characteristics have increased the independence of these
-    gametophytes, so much so that some species never produce sporophytes at all,
-    while other species produce sporophytes only in parts of their geographic
-    range, a trend we term here the “separation of generations.” Pivotal
-    results. Long-lived fern gametophytes have evolved independently in several
-    families and can be found around the world. We present a comprehensive
-    review of the long-lived fern gametophytes that are able to forgo the
-    production of a sporophyte, including accounts of their discovery, taxonomy,
-    biology, ecology, and biogeography. We also present several hypotheses
-    concerning why these species do not produce sporo- phytes, identify gaps in
-    our knowledge about these organisms, and suggest areas of future study.
-    Conclusions. While several populations of independent gametophytes have been
-    identified and characterized in temperate regions, it is likely that the
-    bulk of species with spatially separated generations occur in the tropics,
-    where little work has been done. Additionally, virtually no studies have
-    been undertaken that attempt to determine the underlying factors inhibiting
-    sporophyte production in ferns. As 2017 marks the fiftieth anniversary of
-    the first comprehensive study published on independent fern gametophytes, we
-    can think of no better time for a review on their biology and an assessment
-    of the work that still needs to be done.
   author:
     - family: Pinson
       given: Jerald B.
@@ -1277,33 +1038,6 @@ references:
   volume: '178'
 
 - id: Pouteau2016
-  abstract: >-
-    Inherent characteristics of island species make them particularly
-    susceptible to anthropogenic changes and need to be assessed to implement
-    appropriate conservation strategies. The impacts of climate change are
-    increasingly being investigated along elevational gradients since they
-    provide natural laboratories to study how species respond to climatic
-    variation. Ferns are particularly sensitive to air humidity and temperature
-    and are therefore potentially useful as bio-indicators. This study addresses
-    the question of whether the distributions of fern species richness and
-    abundance have climatic correlates along an elevational gradient on the
-    tropical volcanic island of Tahiti (French Polynesia). Analyses were
-    conducted on two datasets: island-wide richness was estimated using
-    published data on species elevational ranges, and local richness and
-    abundance were addressed through a transect survey. Correlations with water
-    availability, temperature, area availability, and a randomly-generated
-    species richness pattern were investigated. Results showed that both
-    diversity and abundance varied in association with climate. Rainfall was
-    collinear with diversity in the lower half of the elevational gradient (R2 =
-    0.97), while temperature was the most important climatic correlate for
-    diversity in the upper half (R2 = 0.98). The number of terrestrial fern
-    individuals and epiphytic fern cover were both correlated with temperature
-    (R2 = 0.86 and 0.81, respectively). Our results imply that impacts of
-    climate change on ferns on Tahiti might include change in diversity and
-    abundance, and increased extinction risk due to low overlap between current
-    and projected species distributions. Ferns represent important indicator
-    organisms that can be used to study species distributional responses to
-    climate change in island ecosystems.
   author:
     - family: Pouteau
       given: Robin
@@ -1384,9 +1118,6 @@ references:
   volume: '59'
 
 - id: Schuettpelz2007
-  abstract: >-
-    Three plastid genes (rbcL, atpB, atpA), totaling more than 4,000 bp, were
-    sequenced for each of 400 species (selected using a
   author:
     - family: Schuettpelz
       given: Eric
@@ -1407,29 +1138,6 @@ references:
   volume: '56'
 
 - id: Testo2016a
-  abstract: >-
-    Ferns are the second-most diverse lineage of vascular plants on Earth, yet
-    the best-sampled time-calibrated phylogeny of the group to date includes
-    fewer than 5% of global diversity and was published seven years ago. We
-    present a time-calibrated phylogeny that includes nearly half of extant fern
-    diversity. Our results are evaluated in the context of previous studies and
-    the fossil record, and we develop new hypotheses about the radiation of
-    leptosporangiate ferns. We used sequence data from six chloroplast regions
-    for nearly 4000 species of ferns to generate the most comprehensive
-    phylogeny of the group ever published. We calibrate the phylogeny with
-    twenty-six fossils and use an array of phylogenetic methods to resolve
-    phylogenetic relationships, estimate divergence times, and infer speciation,
-    extinction, and net diversification rates. We infer a mid-late Silurian
-    origin for ferns (including horsetails) and an early Carboniferous origin
-    for leptosporangiate ferns. Most derived fern families appeared in the
-    Cretaceous and persisted for millions of years before rapidly diversifying
-    in the Cenozoic. We find no evidence of differential rates of
-    diversification among terrestrial and epiphytic species. Our findings
-    challenge previous hypotheses on the evolutionary history of ferns and
-    present a new paradigm for their Cenozoic radiation. We estimate earlier
-    divergences for most fern lineages than were reported in previous studies
-    and provide evidence of extended persistence of major fern lineages prior to
-    rapid diversification in the last fifty million years.
   author:
     - family: Testo
       given: Weston
@@ -1499,12 +1207,6 @@ references:
   volume: '176'
 
 - id: Wilson2016
-  abstract: >-
-    Since its start in 1998, Software Carpentry has evolved from a week-long
-    training course at the US national laboratories into a worldwide volunteer
-    effort to improve researchers' computing skills. This paper explains what we
-    have learned along the way, the challenges we now face, and our plans for
-    the future.
   author:
     - family: Wilson
       given: Greg
@@ -1524,37 +1226,6 @@ references:
   volume: '3'
 
 - id: Zhou2017
-  abstract: >-
-    The Old World fern genus Pyrrosia (Polypodiaceae) offers a rare system in
-    ferns to study morphological evolution because almost all species of this
-    genus are well studied for their morphology, anatomy, and spore features,
-    and various hypotheses have been proposed in terms of the phylogeny and
-    evolution in this genus. However, the molecular phylogeny of the genus lags
-    behind. The monophyly of the genus has been uncertain and a modern
-    phylogenetic study of the genus based on molecular data has been lacking. In
-    the present study, DNA sequences of five plastid markers of 220 accessions
-    of Polypodiaceae representing two species of Drymoglossum, 14 species of
-    Platycerium, 50 species of Pyrrosia, and the only species of Saxiglossum
-    (subfamily Platycerioideae), and 12 species of other Polypodiaceae
-    representing the remaining four subfamilies are used to infer a phylogeny of
-    the genus. Major results and conclusions of this study include: (1) Pyrrosia
-    as currently circumscribed is paraphyletic in relation to Platycerium and
-    can be divided into two genera: Pyrrosia s.s. and Hovenkampia (gen. nov.),
-    with Hovenkampia and Platycerium forming a strongly supported clade sister
-    to Pyrrosia s.s.; (2) Subfamily Platycerioideae should contain three genera
-    only, Hovenkampia, Platycerium, and Pyrrosia s.s.; (3) Based on the
-    molecular phylogeny, macromorphology, anatomical features, and spore
-    morphology, four major clades in the genus are identified and three of the
-    four are further resolved into four, four, and six subclades, respectively;
-    (4) Three species, P. angustissima, P. foveolata, and P. mannii, not
-    assigned to any groups by Hovenkamp (1986) because of their unusual
-    morphology, each form monospecific clades; (5) Drymoglossum is not
-    monophyletic and those species previously assigned to this genus are
-    resolved in two different subclades; (6) Saxiglossum is resolved as the
-    first lineage in the Niphopsis clade; and (7) The evolution of ten major
-    morphological characters in the subfamily is inferred based on the phylogeny
-    and various morphological synapomorphies for various clades and subclades
-    are identified.
   author:
     - family: Zhou
       given: Xin-Mao
