@@ -1,7 +1,8 @@
 library(tidyverse)
-library(giscoR)
 library(terra)
 library(elevatr)
+library(sf)
+library(ggspatial)
 
 # Custom functions -----
 
@@ -65,7 +66,10 @@ c_apii_specimens <- read_csv("data/specimens_capii_moorea.csv") %>%
   select(latitude, longitude, is_gametophyte) %>%
   filter(!is.na(latitude), !is.na(longitude), !is.na(is_gametophyte)) %>%
   rename(x = longitude, y = latitude) %>%
-  mutate(is_gametophyte = as.logical(is_gametophyte))
+  mutate(
+    is_gametophyte = as.logical(is_gametophyte),
+    lifestage = if_else(is_gametophyte, "配偶体", "胞子体")
+  )
 
 # Map ----
 
@@ -73,7 +77,7 @@ ggplot(mapping = aes(x = x, y = y)) +
   geom_raster(data = moorea_elevation, aes(fill = elevation)) +
   geom_point(
     data = c_apii_specimens,
-    aes(shape = is_gametophyte),
+    aes(shape = lifestage),
     size = 4.5) +
   scale_fill_viridis_c(
     name = "標高 (m)"
@@ -81,15 +85,24 @@ ggplot(mapping = aes(x = x, y = y)) +
   scale_shape_manual(
     name = "ライフステージ",
     values = c(
-      "TRUE" = 1,
-      "FALSE" = 3
-    ),
-    labels = c(
-      "配偶体",
-      "胞子体"
+      "配偶体" = 1, # circle
+      "胞子体" = 3 # cross
     )
   ) +
   coord_sf(crs = wgs84) +
-  theme_void(base_family = "HiraKakuPro-W3", base_size = 20)
+  theme_void(base_family = "HiraKakuPro-W3", base_size = 20) +
+  # scalebar (km)
+  annotation_scale(
+    pad_x = unit(2, "cm"),
+    pad_y = unit(1, "cm"),
+    text_cex = 1) +
+  # north arrow
+  annotation_north_arrow(
+    height = unit(1.5, "cm"),
+    width = unit(1, "cm"),
+    pad_x = unit(2, "cm"),
+    pad_y = unit(2, "cm"),
+    text_cex = 1
+  )
 
-ggsave("moorea_c_apii.png")
+ggsave("working/moorea_c_apii.png")
