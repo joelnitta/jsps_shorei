@@ -1,5 +1,5 @@
 ---
-title: "シダ植物を追いかけて：シダ植物の進化生物学的研究"
+title: "進化生物学のモデルシステムとしてのシダ植物研究"
 bibliography: references.yaml
 csl: apg.csl
 crossref: 
